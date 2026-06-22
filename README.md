@@ -4,6 +4,7 @@ A desktop-based Timetable Management System developed using Java Swing, JDBC, an
 
 🚀 Features
 ➕ Add new timetable records
+
 👀 View all timetable entries
 🧹 Clear input fields
 🔗 Connects Java application with MySQL database using JDBC
