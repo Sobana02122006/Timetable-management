@@ -1,18 +1,14 @@
-📅 Timetable Management System
-
-A desktop-based Timetable Management System developed using Java Swing, JDBC, and MySQL. This application helps educational institutions manage and view class timetables efficiently through a simple graphical user interface.
-
-🚀 Features
-➕ Add new timetable records
-
-👀 View all timetable entries
-🧹 Clear input fields
-🔗 Connects Java application with MySQL database using JDBC
-🖥️ User-friendly Java Swing GUI
-📋 Displays records in a table format
-🛠️ Technologies Used
-Java
-Java Swing
-JDBC
-MySQL
-MySQL Connector/J
+# Timetable Management System
+A simple Java Swing and MySQL based application for managing timetable records.
+## Features
+* Add timetable records
+* View timetable records
+* Clear input fields
+* Store data in MySQL database
+## Technologies Used
+* Java
+* Java Swing
+* JDBC
+* MySQL
+## Project Description
+This Timetable Management System helps manage class schedules. The system stores timetable details and displays records through a simple graphical user interface.
